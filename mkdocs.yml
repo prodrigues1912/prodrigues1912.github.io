@@ -1,0 +1,6 @@
+site_name: Paulo Rodrigues
+site_description: My personal website
+site_author: Paulo Rodrigues
+site_url: https://paulorodrigues.blog
+theme:
+  name: material
