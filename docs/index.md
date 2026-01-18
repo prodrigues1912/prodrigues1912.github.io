@@ -1,17 +1,19 @@
-# Welcome to MkDocs
+# Bem-vindo
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Sou Paulo Rodrigues, desenvolvedor de software.
 
-## Commands
+## Sobre este blog
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Aqui você vai encontrar notas e tutoriais que escrevo principalmente para minha própria consulta. Os temas são variados - tecnologia na maior parte, mas também outros assuntos que me interessam.
 
-## Project layout
+## O que esperar
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- **Tutoriais técnicos** - Programação, engenharia de dados, cloud, DevOps e ferramentas em geral
+- **Notas de estudo** - Resumos e anotações sobre o que estou aprendendo
+- **Outros temas** - Assuntos variados que considero útil registrar e para eventual consulta
+
+## Contato
+
+- [LinkedIn](https://www.linkedin.com/in/prodrigues1912/)
+- [X](https://x.com/prodrigues)
+- [GitHub](https://github.com/prodrigues1912)
