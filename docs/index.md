@@ -17,3 +17,5 @@ Aqui você vai encontrar notas e tutoriais que escrevo principalmente para minha
 - [LinkedIn](https://www.linkedin.com/in/prodrigues1912/)
 - [X](https://x.com/prodrigues)
 - [GitHub](https://github.com/prodrigues1912)
+
+---
