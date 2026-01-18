@@ -1,6 +1,64 @@
 site_name: Paulo Rodrigues
-site_description: My personal website
+site_description: Blog pessoal de Paulo Rodrigues. Notas e tutoriais sobre tecnologia e outros interesses.
 site_author: Paulo Rodrigues
 site_url: https://paulorodrigues.blog
 theme:
   name: material
+  icon:
+    logo: material/code-tags
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.code.annotate
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+  font:
+    text: Roboto
+    code: JetBrains Mono
+  language: "pt-BR"
+plugins:
+  - blog:
+      blog_dir: .
+  - search
+  - macros
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/prodrigues1912
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/prodrigues1912/
+    - icon: fontawesome/brands/x-twitter
+      link: https://x.com/prodrigues
+    - icon: fontawesome/solid/rss
+      link: /rss.xml
+
+copyright: Copyright &copy; 2024 - 2026 Paulo Rodrigues
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - admonition
+  - pymdownx.details
+  - toc:
+      permalink: true
