@@ -2,8 +2,8 @@
 date: 2099-01-01
 draft: true
 categories:
-  - Ferramentas
-  - Produtividade
+  - DevOps
+  - Terminal
 ---
 
 # Dotfiles: como organizo minha configuração
@@ -43,7 +43,7 @@ Organizo por aplicação, não por localização final.
 
 ## GNU Stow para symlinks
 
-[Stow](https://www.gnu.org/software/stow/) cria symlinks automaticamente. É a forma mais elegante de gerenciar dotfiles.
+[Stow](https://www.gnu.org/software/stow/){:target="_blank"} cria symlinks automaticamente. É a forma mais elegante de gerenciar dotfiles.
 
 ### Instalação
 

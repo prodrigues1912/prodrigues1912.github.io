@@ -1,9 +1,8 @@
 ---
 date: 2025-03-10
 categories:
-  - Docker
   - DevOps
-  - macOS
+  - Docker
 ---
 
 # Docker no Mac sem Docker Desktop
@@ -101,5 +100,5 @@ export DOCKER_HOST="unix://${HOME}/.colima/work/docker.sock"
 
 ## Links
 
-- [Colima](https://github.com/abiosoft/colima)
-- [Lima](https://github.com/lima-vm/lima)
+- [Colima](https://github.com/abiosoft/colima){:target="_blank"}
+- [Lima](https://github.com/lima-vm/lima){:target="_blank"}

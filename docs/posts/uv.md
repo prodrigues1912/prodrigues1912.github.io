@@ -1,8 +1,8 @@
 ---
 date: 2024-12-08
 categories:
+  - DevOps
   - Python
-  - Ferramentas
 ---
 
 # uv: gerenciador de pacotes Python
@@ -90,5 +90,5 @@ uv pip freeze
 
 ## Links
 
-- [Documentação](https://docs.astral.sh/uv/)
-- [GitHub](https://github.com/astral-sh/uv)
+- [Documentação](https://docs.astral.sh/uv/){:target="_blank"}
+- [GitHub](https://github.com/astral-sh/uv){:target="_blank"}

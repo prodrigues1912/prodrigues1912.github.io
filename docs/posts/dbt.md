@@ -620,7 +620,7 @@ metrics:
 
 ## Links
 
-- [dbt Docs](https://docs.getdbt.com/)
-- [dbt Learn](https://courses.getdbt.com/)
-- [dbt Hub](https://hub.getdbt.com/)
-- [dbt Utils](https://github.com/dbt-labs/dbt-utils)
+- [dbt Docs](https://docs.getdbt.com/){:target="_blank"}
+- [dbt Learn](https://courses.getdbt.com/){:target="_blank"}
+- [dbt Hub](https://hub.getdbt.com/){:target="_blank"}
+- [dbt Utils](https://github.com/dbt-labs/dbt-utils){:target="_blank"}

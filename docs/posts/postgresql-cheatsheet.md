@@ -5,7 +5,7 @@ categories:
   - Banco de Dados
 ---
 
-# PostgreSQL: referência rápida
+# PostgreSQL: referência
 
 Comandos e padrões úteis para PostgreSQL.
 
@@ -575,6 +575,6 @@ GROUP BY state;
 
 ## Links
 
-- [PostgreSQL Docs](https://www.postgresql.org/docs/current/)
-- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
-- [Explain Visualizer](https://explain.depesz.com/)
+- [PostgreSQL Docs](https://www.postgresql.org/docs/current/){:target="_blank"}
+- [PostgreSQL Tutorial](https://www.postgresqltutorial.com/){:target="_blank"}
+- [Explain Visualizer](https://explain.depesz.com/){:target="_blank"}

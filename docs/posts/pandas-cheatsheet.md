@@ -5,7 +5,7 @@ categories:
   - Engenharia de Dados
 ---
 
-# Pandas: referência rápida
+# Pandas: referência
 
 Comandos e padrões para manipulação de dados com Pandas.
 
@@ -479,6 +479,6 @@ resultado = (
 
 ## Links
 
-- [Pandas Docs](https://pandas.pydata.org/docs/)
-- [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html)
-- [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html)
+- [Pandas Docs](https://pandas.pydata.org/docs/){:target="_blank"}
+- [Pandas User Guide](https://pandas.pydata.org/docs/user_guide/index.html){:target="_blank"}
+- [10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html){:target="_blank"}

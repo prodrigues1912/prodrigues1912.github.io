@@ -2,10 +2,10 @@
 date: 2026-01-18
 categories:
   - Programação
-  - .NET
+  - C#
 ---
 
-# C# 10: referência rápida
+# C# 10: referência
 
 Sintaxe e padrões modernos do C# 10 (.NET 6+).
 
@@ -689,6 +689,6 @@ public class UserServiceTests
 
 ## Links
 
-- [C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/)
-- [.NET API Browser](https://learn.microsoft.com/en-us/dotnet/api/)
-- [C# Cheatsheet](https://github.com/milanm/csharp-cheatsheet)
+- [C# Docs](https://learn.microsoft.com/en-us/dotnet/csharp/){:target="_blank"}
+- [.NET API Browser](https://learn.microsoft.com/en-us/dotnet/api/){:target="_blank"}
+- [C# Cheatsheet](https://github.com/milanm/csharp-cheatsheet){:target="_blank"}

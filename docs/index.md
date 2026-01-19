@@ -1,6 +1,6 @@
 # Bem-vindo
 
-Sou Paulo Rodrigues, desenvolvedor de software.
+Sou Paulo Rodrigues, desenvolvedor de software e engenheiro de dados.
 
 ## Sobre este blog
 

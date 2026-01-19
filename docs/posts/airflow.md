@@ -532,6 +532,6 @@ services:
 
 ## Links
 
-- [Airflow Docs](https://airflow.apache.org/docs/)
-- [Providers](https://airflow.apache.org/docs/apache-airflow-providers/)
-- [Best Practices](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html)
+- [Airflow Docs](https://airflow.apache.org/docs/){:target="_blank"}
+- [Providers](https://airflow.apache.org/docs/apache-airflow-providers/){:target="_blank"}
+- [Best Practices](https://airflow.apache.org/docs/apache-airflow/stable/best-practices.html){:target="_blank"}

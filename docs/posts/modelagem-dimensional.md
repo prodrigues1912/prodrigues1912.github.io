@@ -490,7 +490,7 @@ SET IDENTITY_INSERT dbo.dim_customer OFF;
 
 ## Links
 
-- [Kimball Group](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/)
-- [SSIS Docs](https://learn.microsoft.com/en-us/sql/integration-services/)
-- [SSAS Docs](https://learn.microsoft.com/en-us/analysis-services/)
+- [Kimball Group](https://www.kimballgroup.com/data-warehouse-business-intelligence-resources/kimball-techniques/dimensional-modeling-techniques/){:target="_blank"}
+- [SSIS Docs](https://learn.microsoft.com/en-us/sql/integration-services/){:target="_blank"}
+- [SSAS Docs](https://learn.microsoft.com/en-us/analysis-services/){:target="_blank"}
 

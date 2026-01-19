@@ -5,7 +5,7 @@ categories:
   - C
 ---
 
-# C: referência rápida
+# C: referência
 
 Fundamentos da linguagem C para iniciantes.
 
@@ -512,6 +512,6 @@ nome[sizeof(nome) - 1] = '\0';
 
 ## Links
 
-- [C Reference](https://en.cppreference.com/w/c)
-- [Learn C](https://www.learn-c.org/)
-- [Beej's Guide to C](https://beej.us/guide/bgc/)
+- [C Reference](https://en.cppreference.com/w/c){:target="_blank"}
+- [Learn C](https://www.learn-c.org/){:target="_blank"}
+- [Beej's Guide to C](https://beej.us/guide/bgc/){:target="_blank"}

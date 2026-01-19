@@ -1,8 +1,8 @@
 ---
 date: 2025-01-12
 categories:
-  - Ferramentas
-  - Tutorial
+  - DevOps
+  - Python
 ---
 
 # MkDocs Material para blog pessoal
@@ -137,6 +137,6 @@ meublog.com
 
 ## Links
 
-- [MkDocs](https://www.mkdocs.org/)
-- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)
-- [Blog plugin](https://squidfunk.github.io/mkdocs-material/plugins/blog/)
+- [MkDocs](https://www.mkdocs.org/){:target="_blank"}
+- [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/){:target="_blank"}
+- [Blog plugin](https://squidfunk.github.io/mkdocs-material/plugins/blog/){:target="_blank"}

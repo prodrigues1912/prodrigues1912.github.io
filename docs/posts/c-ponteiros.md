@@ -12,7 +12,7 @@ Explicação detalhada de ponteiros, um dos conceitos mais importantes da lingua
 <!-- more -->
 
 !!! note "Pré-requisito"
-    Este post assume conhecimento básico de C. Veja a [referência rápida de C](c-cheatsheet.md) para revisar o básico.
+    Este post assume conhecimento básico de C. Veja a [referência de C](c-cheatsheet.md) para revisar o básico.
 
 ## O que é um ponteiro?
 
@@ -484,5 +484,5 @@ int main(void) {
 
 ## Links
 
-- [C Reference - Pointers](https://en.cppreference.com/w/c/language/pointer)
-- [Beej's Guide - Pointers](https://beej.us/guide/bgc/html/split/pointers.html)
+- [C Reference - Pointers](https://en.cppreference.com/w/c/language/pointer){:target="_blank"}
+- [Beej's Guide - Pointers](https://beej.us/guide/bgc/html/split/pointers.html){:target="_blank"}

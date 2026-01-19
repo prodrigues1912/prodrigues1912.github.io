@@ -5,7 +5,7 @@ categories:
   - Banco de Dados
 ---
 
-# T-SQL: referência rápida
+# T-SQL: referência
 
 Comandos e padrões úteis para SQL Server.
 
@@ -505,5 +505,5 @@ WHERE l.resource_database_id = DB_ID();
 
 ## Links
 
-- [T-SQL Reference](https://learn.microsoft.com/en-us/sql/t-sql/language-reference)
-- [Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store)
+- [T-SQL Reference](https://learn.microsoft.com/en-us/sql/t-sql/language-reference){:target="_blank"}
+- [Query Store](https://learn.microsoft.com/en-us/sql/relational-databases/performance/monitoring-performance-by-using-the-query-store){:target="_blank"}

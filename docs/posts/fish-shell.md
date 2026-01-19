@@ -1,7 +1,7 @@
 ---
 date: 2025-02-09
 categories:
-  - Ferramentas
+  - DevOps
   - Terminal
 ---
 
@@ -86,4 +86,4 @@ end
 
 ## Links
 
-- [Fish Shell](https://fishshell.com/)
+- [Fish Shell](https://fishshell.com/){:target="_blank"}

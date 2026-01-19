@@ -2,11 +2,10 @@
 date: 2025-05-11
 categories:
   - DevOps
-  - Cloud
   - Terraform
 ---
 
-# Terraform: referência rápida
+# Terraform: referência
 
 Comandos, sintaxe e padrões para Terraform com exemplos para AWS, GCP e Azure.
 
@@ -875,6 +874,6 @@ infracost breakdown --path .
 
 ## Links
 
-- [Terraform Docs](https://developer.hashicorp.com/terraform/docs)
-- [Terraform Registry](https://registry.terraform.io/)
-- [Terraform Best Practices](https://www.terraform-best-practices.com/)
+- [Terraform Docs](https://developer.hashicorp.com/terraform/docs){:target="_blank"}
+- [Terraform Registry](https://registry.terraform.io/){:target="_blank"}
+- [Terraform Best Practices](https://www.terraform-best-practices.com/){:target="_blank"}

@@ -1,8 +1,8 @@
 ---
 date: 2025-02-23
 categories:
+  - DevOps
   - Git
-  - Ferramentas
 ---
 
 # Git worktrees
@@ -88,4 +88,4 @@ Uma branch só pode estar em um worktree por vez. Submodules precisam de atenç�
 
 ## Links
 
-- [Documentação](https://git-scm.com/docs/git-worktree)
+- [Documentação](https://git-scm.com/docs/git-worktree){:target="_blank"}
